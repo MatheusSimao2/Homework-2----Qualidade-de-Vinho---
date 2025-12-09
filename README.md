@@ -1,7 +1,7 @@
 # A Superioridade de Redes Neurais na Predição da Qualidade do Vinho: Uma Análise Comparativa
 
 ## Descrição do Projeto
-Projeto acadêmico que implementa e compara diferentes modelos de regressão para prever a qualidade de vinhos portugueses a partir de características físico-químicas. Desenvolvido como parte do Homework 2 da disciplina de Inteligência Computacional Aplicada, o trabalho inclui implementações manuais e com bibliotecas especializadas de quatro abordagens: Regressão Linear Ordinária (OLS), Regressão Ridge (L2), Regressão PLS e Rede Neural Artificial.
+Trabalho acadêmico que implementa e compara diferentes modelos de regressão para prever a qualidade de vinhos portugueses a partir de características físico-químicas. Desenvolvido como parte do Homework 2 da disciplina de Inteligência Computacional Aplicada, o trabalho inclui implementações manuais e com bibliotecas especializadas de quatro abordagens: Regressão Linear Ordinária (OLS), Regressão Ridge (L2), Regressão PLS e Rede Neural Artificial.
 
 ## Dataset
 - Conjunto de Dados: Wine Quality
